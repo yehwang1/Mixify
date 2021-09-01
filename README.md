@@ -16,4 +16,7 @@ Here, I have four vastly different playlists. The playlists consist of old schoo
 <img width="1179" alt="Screen Shot 2021-09-01 at 12 02 51 AM" src="https://user-images.githubusercontent.com/60831327/131610068-ea42f762-551e-4856-89b6-de31fd893e77.png">
 <img width="1135" alt="Screen Shot 2021-09-01 at 12 00 27 AM" src="https://user-images.githubusercontent.com/60831327/131610069-1e344d92-09a1-4d33-9ec6-586d54edd613.png">
 <img width="1127" alt="Screen Shot 2021-09-01 at 12 00 14 AM" src="https://user-images.githubusercontent.com/60831327/131610070-a7d1610f-d5cf-4c1e-aced-cb68a7bd60d2.png">
+<img width="1141" alt="Screen Shot 2021-08-31 at 11 59 51 PM" src="https://user-images.githubusercontent.com/60831327/131610123-f950b3e1-fd5e-4da8-909e-d9f82554cc17.png">
+<img width="1134" alt="Screen Shot 2021-08-31 at 11 59 20 PM" src="https://user-images.githubusercontent.com/60831327/131610127-09f851b8-d6ee-4f41-ae16-aa1a0e063d70.png">
+
  
