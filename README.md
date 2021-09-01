@@ -8,15 +8,27 @@ Mixify aims to tackle this problem. Using Spotify's API, Mixify takes input play
 
 Mixify incorporates different playlists and conducts analysis of each playlist's traits, including danceability, tempo, energy, valence, etc. It uses these metrics to formulate a resulting playlist that will equally incorporate each input playlist with the intent that the final product will appeal to all members of the party. The final product will contain songs that each user may recognize from their respective playlists as well as suggesting new ones based on their listening tastes.
 
-Mixify in use:
 
-Here, I have four vastly different playlists. The playlists consist of old school hip-hop music, a blend of jazz, indie/dream rock, and a mix of Korean and American modern hip hop.
+An example of Mixify in use:
 
-<img width="725" alt="Screen Shot 2021-09-01 at 12 03 21 AM" src="https://user-images.githubusercontent.com/60831327/131610065-2d6148f3-6005-4b8e-8d0d-81b7504f8aef.png">
-<img width="1179" alt="Screen Shot 2021-09-01 at 12 02 51 AM" src="https://user-images.githubusercontent.com/60831327/131610068-ea42f762-551e-4856-89b6-de31fd893e77.png">
-<img width="1135" alt="Screen Shot 2021-09-01 at 12 00 27 AM" src="https://user-images.githubusercontent.com/60831327/131610069-1e344d92-09a1-4d33-9ec6-586d54edd613.png">
-<img width="1127" alt="Screen Shot 2021-09-01 at 12 00 14 AM" src="https://user-images.githubusercontent.com/60831327/131610070-a7d1610f-d5cf-4c1e-aced-cb68a7bd60d2.png">
-<img width="1141" alt="Screen Shot 2021-08-31 at 11 59 51 PM" src="https://user-images.githubusercontent.com/60831327/131610123-f950b3e1-fd5e-4da8-909e-d9f82554cc17.png">
-<img width="1134" alt="Screen Shot 2021-08-31 at 11 59 20 PM" src="https://user-images.githubusercontent.com/60831327/131610127-09f851b8-d6ee-4f41-ae16-aa1a0e063d70.png">
+Here, I have four vastly different playlists. The playlists consist of old school hip-hop music, a blend of jazz, indie/dream rock, and a varied mix of Korean and American modern hip hop, R&B, and pop.
+
+Old School Hip-Hop
+<img width="1071" alt="Screen Shot 2021-09-01 at 12 00 14 AM" src="https://user-images.githubusercontent.com/60831327/131610383-e5ac96e5-2331-4ad7-9a10-b4c7b3e18773.png">
+Jazz
+<img width="1079" alt="Screen Shot 2021-08-31 at 11 59 20 PM" src="https://user-images.githubusercontent.com/60831327/131610417-44610355-3a47-4ac3-84d7-100ae55ba6b8.png">
+Indie & Dream Rock
+<img width="1074" alt="Screen Shot 2021-08-31 at 11 59 51 PM" src="https://user-images.githubusercontent.com/60831327/131610432-bf4d6c58-66a0-48c5-a0ee-c09c8d75e789.png">
+Mix of Korean hip-hop, American hip-hop, R&B, and Pop
+<img width="1077" alt="Screen Shot 2021-09-01 at 12 00 27 AM" src="https://user-images.githubusercontent.com/60831327/131610439-4b7eae23-a956-4abd-8866-f6ef64d5816d.png">
+
+These playlists' URLs and our desired features for our resulting playlist is fed into Mixify:
+<img width="725" alt="Screen Shot 2021-09-01 at 12 03 21 AM" src="https://user-images.githubusercontent.com/60831327/131610591-36f73db8-cea5-4943-9899-b417f583f8cc.png">
+
+After Mixify runs, we get a resulting playlist in our Spotify library:
+<img width="1113" alt="Screen Shot 2021-09-01 at 12 02 51 AM" src="https://user-images.githubusercontent.com/60831327/131611043-df387ba3-2539-4323-8457-b65f860d0940.png">
+
+The resulting playlist contains examples of songs that are already in the input playlists as well as new suggestions. We clearly see the influence of each input playlist. The Mixify playlist contains Korean Hip Hop/R&B (All I Wanna Do (K) (Feat. Hoody and Loco), jazz (Herbie Hancock, Snarky Puppy, Mike Stern), old school hip-hop (Dr. Dre), and indie (Mellow Fellow, Jakob). 
+
 
  
