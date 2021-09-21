@@ -2,7 +2,7 @@
 
 Mixify is a Spotify playlist generating application, designed with the intent of helping friends and family create designated playlists for gatherings and trips.
 
-Have you ever wanted to create a playlist, mixtape, or CD for your family or friends while going on a trip? One that you could all listen to in the car and enjoy equally together?
+Have you ever wanted to create a playlist, mixtape, or CD for your family or friends while going on a trip? One that you could all listen to in the car and equally enjoy together?
 
 Mixify aims to tackle this problem. Using Spotify's API, Mixify takes input playlists from different users. Users can supply any playlist of their choosing, ideally one that will reflect their true music preferences/taste.
 
